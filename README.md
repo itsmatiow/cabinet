@@ -4,7 +4,7 @@
 
 The project focuses on providing an intuitive dashboard experience with efficient data management, interactive charts, authentication, and responsive layouts across different screen sizes.
 
-##✨ Features
+##✨ **Features**
 
 * Hotel management dashboard
 * Booking management
@@ -23,14 +23,14 @@ The project focuses on providing an intuitive dashboard experience with efficien
 * Error handling
 * Data caching and synchronization
 
-##📸 Screenshots
+##📸 **Screenshots**
 
 Here are some screenshots from the project, showcasing its dashboard, booking management, and overall user experience.
 
 <img width="2434" height="1410" alt="image" src="https://github.com/user-attachments/assets/d9f3b9ca-54bc-4f3b-abb5-f308264fb39c" />
 <img width="2425" height="1373" alt="image" src="https://github.com/user-attachments/assets/2c6ad5d9-b57a-46e0-bde6-00ec89867919" />
 
-##🛠️ Tech Stack
+##🛠️ **Tech Stack**
 
 React
 JavaScript
@@ -46,11 +46,11 @@ Floating UI
 date-fns
 React Error Boundary
 
-🌐 Live Website
+🌐 **Live Website**
 
 https://cabinet-en.vercel.app/
 
-🚀 Getting Started
+🚀 **Getting Started**
 
 1. Clone the repository
 
@@ -87,11 +87,11 @@ npm run dev
 
 The project will be available at the local development URL provided by Vite.
 
-👨‍💻 My Role
+👨‍💻 **My Role**
 
 I was responsible for the complete development of the Cabinet application, including the dashboard UI, responsive layouts, reusable React components, authentication flow, booking and cabin management, data fetching and caching, form handling, charts, and Supabase integration.
 
-📁 Project Structure
+📁 **Project Structure**
 
 ```text
 src/
@@ -105,6 +105,6 @@ src/
 public/
 ```
 
-📄 License
+📄 **License**
 
 This project was developed as a personal project for learning and demonstrating modern React development.
